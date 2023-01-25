@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Eliastush
-- 👀 I’m interested in ...food
+- 👀 I’m interested in ... programming
 - 🌱 I’m currently learning ...as a student
 - 💞️ I’m looking to collaborate on ... programming
 - 📫 How to reach me ...0720633477
